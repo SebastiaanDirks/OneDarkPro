@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Dark Pro" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="One Dark Pro (1)" GUID="{d682c320-54bd-4378-8d33-06fb180d53a4}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -298,7 +298,7 @@
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFC679DD" />
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1022,7 +1022,7 @@
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFC679DD" />
       </Color>
       <Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2066,7 +2066,7 @@
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF61AFEF" />
       </Color>
       <Color Name="ReSharper C++ Template Parameter Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2078,7 +2078,7 @@
       </Color>
       <Color Name="ReSharper C++ Preprocessor Macro Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AEEF" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="ReSharper C++ UE4 Reflection Specifier Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
