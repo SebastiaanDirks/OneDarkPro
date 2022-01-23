@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="One Dark Pro (1)" GUID="{d682c320-54bd-4378-8d33-06fb180d53a4}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="One Dark Pro (2)" GUID="{6c72a0b5-668f-4559-a82c-b0097c5df7aa}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -1169,7 +1169,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Current Line Highlight">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF59626F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Error Unresolved">
